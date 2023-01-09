@@ -9,6 +9,7 @@ import android.view.View;
 import android.widget.ImageView;
 
 public class LandingpageActivity extends AppCompatActivity {
+    ImageView img_1;
     ImageView img_2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,6 +21,13 @@ public class LandingpageActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 startActivity(new Intent(LandingpageActivity.this,LogoActivity.class));
+            }
+        });
+        img_1 = findViewById(R.id.img_1);
+        img_1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(LandingpageActivity.this,StoreActivity.class));
             }
         });
     }

@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Localbrandstr_ina</string>
+
+    <string-array name="store_list">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="desk">
+        <item>random 1</item>
+        <item>random 2</item>
+        <item>random 3</item>
+    </string-array>
 </resources>
