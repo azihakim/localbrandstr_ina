@@ -35,7 +35,7 @@ public class StoreAdapter extends RecyclerView.Adapter<StoreAdapter.MyViewHolder
     }
 
     @Override
-    public void onBindViewHolder(@NonNull MyViewHolder holder, int position) {
+    public void onBindViewHolder(@NonNull MyViewHolder holder, final int position) {
         holder.brand.setText(data1[position]);
         holder.desc.setText(data2[position]);
         holder.logo.setImageResource(images[position]);
@@ -44,11 +44,10 @@ public class StoreAdapter extends RecyclerView.Adapter<StoreAdapter.MyViewHolder
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(context, DescActivity.class);
-                intent putExtra("data1", data1[position]);
-                intent putExtra("data2", data2[position]);
-                intent putExtra("iamges", images[position]);
-                intent put
-                context.startActivities(intent);
+                intent.putExtra("data1", data1[position]);
+                intent.putExtra("data2", data2[position]);
+                intent.putExtra("images", images[position]);
+                context.startActivity(intent);
             }
         });
     }
