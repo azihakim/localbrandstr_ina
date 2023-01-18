@@ -15,8 +15,7 @@
         <activity
             android:name=".DescActivity"
             android:parentActivityName=".StoreActivity"
-            android:label="Details"
-            android:exported="false">
+            android:label="Details">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />

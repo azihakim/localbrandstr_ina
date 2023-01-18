@@ -1,6 +1,7 @@
 package com.pab.localbrandstr_ina;
 
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.Intent;
 import android.media.Image;
@@ -46,8 +47,9 @@ public class StoreAdapter extends RecyclerView.Adapter<StoreAdapter.MyViewHolder
                 Intent intent = new Intent(context, DescActivity.class);
                 intent.putExtra("data1", data1[position]);
                 intent.putExtra("data2", data2[position]);
-                intent.putExtra("images", images[position]);
+                intent.putExtra("myImage", images[position]);
                 context.startActivity(intent);
+
             }
         });
     }

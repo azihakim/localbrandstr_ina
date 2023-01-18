@@ -14,7 +14,7 @@ public class DescActivity extends AppCompatActivity {
     TextView title, description;
 
     String data1, data2;
-    int images;
+    int myImage;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -35,7 +35,7 @@ public class DescActivity extends AppCompatActivity {
 
             data1 = getIntent().getStringExtra("data1");
             data2 = getIntent().getStringExtra("data2");
-            images = getIntent().getIntExtra("images", 1);
+            myImage = getIntent().getIntExtra("myImage", 1);
         }else{
             Toast.makeText(this, "No data.", Toast.LENGTH_SHORT).show();
         }
@@ -44,6 +44,6 @@ public class DescActivity extends AppCompatActivity {
     private void setData(){
         title.setText(data1);
         description.setText(data2);
-        mainImageView.setImageResource(images);
+        mainImageView.setImageResource(myImage);
     }
 }
