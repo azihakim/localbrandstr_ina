@@ -2,13 +2,15 @@
     <string name="app_name">Localbrandstr_ina</string>
 
     <string-array name="store_list">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
+        <item>Maternal</item>
+        <item>thanksinsomnia</item>
+        <item>rawtype riot</item>
     </string-array>
     <string-array name="desk">
-        <item>random 1</item>
-        <item>random 2</item>
-        <item>random 3</item>
+        <item>Berawal dari iseng dan ikut-ikutan, siapa menyangka Vidi Nurhadi berhasil membesarkan brand pakaian dan aksesoris Maternal Disaster. Sekitar 2003, karena kecintaannya terhadap hobi musik keras, Vidi seringkali nongkrong di distro untuk berburu merchandise band, seperti CD, kaset, kaos, dll.
+Singkat cerita, terbesit dalam pikiran Vidi untuk membuat desain dan menyablonnya sendiri, karena dia merasa kurang puas dengan desain-desain yang ada pada saat itu. Kebetulan juga, teman-teman nongkrongnya di distro banyak yang belajar menyablon untuk membuat stiker dan sejenisnya.</item>
+        <item>Sejarah Thanksinsomnia pertama kali tercipta sebenarnya aktif pada tahun 2012 silam dan ditemukan oleh Mohan Hazian. Pada 2011, Mohan masih mengerjakan produksi milik orang lain. Karena sebelumnya, Mohan sebenarnya kerja di sebuah konveksi milik orang lain dan akhirnya lepas membuat brand in-house Thanksinsomnia.
+Mohan merilis produk pertama Thanksinsomnia berupa tas papan skateboard yang terus kemudian ia titipkan di sebuah toko skate shop milik temannya, dan akhirnya mulai banyak permintaan dari produk tersebut, dari situ lah Mohan memulai perjalanan bersejarahnya bersama Thanksinsomnia dan mulai memproduksi produk tersebut dengan model-model yang baru.</item>
+        <item>Kisah Perjalanan Brand Rawtype Riot - Brand Rawtype-Riot dibuat oleh visual artis dan pengusaha bernama Decky Sastra sejak Maret 2017. Ia memutuskan untuk punya bisnis sendiri setelah sering menjadi desainer untuk brand lain. Namun, karena cuma punya modal di bawah Rp 10 juta, ia hanya mampu merilis empat jaket yang dipasarkan secara online dari kos-kosannya. Pada saat membangun brand ini, Decky mengusung ide untuk menampilkan konsep genuine art and co. yang menunjukkan desain dari sisi yang raw dan detailing namun masih memperhatikan factor orisinil dan artistik dan menargetkan konsumen dengan rentang umur 18-35 tahun, khususnya untuk orang-orang yang menyukai motor klasik rakitan atau custome culture</item>
     </string-array>
 </resources>
