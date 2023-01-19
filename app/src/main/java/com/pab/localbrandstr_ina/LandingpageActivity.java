@@ -11,6 +11,7 @@ import android.widget.ImageView;
 public class LandingpageActivity extends AppCompatActivity {
     ImageView img_1;
     ImageView img_2;
+    ImageView img_3;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -28,6 +29,13 @@ public class LandingpageActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 startActivity(new Intent(LandingpageActivity.this,StoreActivity.class));
+            }
+        });
+        img_3 = findViewById(R.id.img_3);
+        img_3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(LandingpageActivity.this,AboutActivity.class));
             }
         });
     }

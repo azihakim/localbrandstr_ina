@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/ic_launcher_background"
+    tools:context=".AboutActivity">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="189dp"
+        android:layout_marginBottom="589dp"
+        android:layout_weight="1"
+        android:text="About"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/textViewazi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="174dp"
+        android:layout_marginTop="195dp"
+        android:layout_weight="1"
+        android:text="Muhammad Azizul Hakim"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/textViewazinpm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewazi"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="174dp"
+        android:layout_marginTop="13dp"
+        android:layout_weight="1"
+        android:text="20242400xx"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/textViewipan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="191dp"
+        android:layout_marginTop="570dp"
+        android:layout_weight="1"
+        android:text="Muhammad Irfan"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/textViewipannpm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewipan"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="190dp"
+        android:layout_marginTop="9dp"
+        android:layout_weight="1"
+        android:text="20242400xx"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/textViewhani"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="183dp"
+        android:layout_marginTop="386dp"
+        android:layout_weight="1"
+        android:text="Hanny Pase"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/textViewhaninpm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewhani"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="182dp"
+        android:layout_marginTop="16dp"
+        android:layout_weight="1"
+        android:text="20242400xx"
+        android:textColor="@color/white" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="102dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="111dp"
+        android:layout_marginEnd="110dp"
+        app:srcCompat="@drawable/logopab2" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="148dp"
+        android:layout_height="115dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="264dp"
+        android:layout_marginBottom="448dp"
+        app:srcCompat="@drawable/azi" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="148dp"
+        android:layout_height="115dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="264dp"
+        android:layout_marginBottom="261dp"
+        app:srcCompat="@drawable/hani" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="148dp"
+        android:layout_height="115dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="260dp"
+        android:layout_marginBottom="76dp"
+        app:srcCompat="@drawable/ipan" />
+</RelativeLayout>
