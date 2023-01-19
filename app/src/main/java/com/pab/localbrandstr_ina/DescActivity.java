@@ -15,9 +15,9 @@ import android.widget.Toast;
 public class DescActivity extends AppCompatActivity {
 
     ImageView mainImageView;
-    TextView title, description, location;
+    TextView title, description;
 
-    String data1, data2, data3;
+    String data1, data2, data3, data4;
     int myImage;
 
     @Override
@@ -28,7 +28,6 @@ public class DescActivity extends AppCompatActivity {
         mainImageView = findViewById(R.id.mainImageView);
         title = findViewById(R.id.title);
         description = findViewById(R.id.description);
-        location = findViewById(R.id.location);
 
         getData();
         setData();
@@ -37,7 +36,15 @@ public class DescActivity extends AppCompatActivity {
         map.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(Intent.ACTION_VIEW , Uri.parse(String.valueOf(data2)));
+                Intent intent = new Intent(Intent.ACTION_VIEW , Uri.parse(String.valueOf(data3)));
+                startActivity(intent);
+            }
+        });
+        Button ig = (Button) findViewById(R.id.btnig);
+        ig.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Intent.ACTION_VIEW , Uri.parse(String.valueOf(data4)));
                 startActivity(intent);
             }
         });
@@ -50,6 +57,7 @@ public class DescActivity extends AppCompatActivity {
             data1 = getIntent().getStringExtra("data1");
             data2 = getIntent().getStringExtra("data2");
             data3 = getIntent().getStringExtra("data3");
+            data4 = getIntent().getStringExtra("data4");
             myImage = getIntent().getIntExtra("myImage", 1);
         }else{
             Toast.makeText(this, "No data.", Toast.LENGTH_SHORT).show();
@@ -59,7 +67,6 @@ public class DescActivity extends AppCompatActivity {
     private void setData(){
         title.setText(data1);
         description.setText(data2);
-        location.setText(data3);
         mainImageView.setImageResource(myImage);
 
     }

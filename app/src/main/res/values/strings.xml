@@ -33,7 +33,20 @@ Tahun 2013 dikisahkan Sadad menjadi awal mula dirinya melahirkan nama Erigo seba
     </string-array>
 
     <string-array name="loc">
-        <item>geo: -4.0830427 103.1470319</item>
+        <item>geo: -2.9737082 104.7618535</item>
+        <item>geo: @-2.9737082,104.7618535</item>
+        <item>geo: 4377.3 2085.789</item>
+        <item>geo: 4377.3 2085.789</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="ig">
+        <item>https://www.instagram.com/maternal_disaster/</item>
         <item>geo: 4377.3 2085.789</item>
         <item>geo: 4377.3 2085.789</item>
         <item>geo: 4377.3 2085.789</item>
