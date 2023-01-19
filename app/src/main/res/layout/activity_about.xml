@@ -14,11 +14,12 @@
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="127dp"
-        android:layout_marginBottom="590dp"
+        android:layout_marginEnd="124dp"
+        android:layout_marginBottom="576dp"
         android:layout_weight="1"
         android:text="Daftar Anggota Kelompok"
-        android:textColor="@color/white" />
+        android:textColor="@color/white"
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/textViewazi"
@@ -29,7 +30,8 @@
         android:layout_marginStart="174dp"
         android:layout_marginTop="195dp"
         android:layout_weight="1"
-        android:text="Muhammad Azizul Hakim"
+        android:textStyle="bold"
+        android:text="Muhammad Abdul Azizul Hakim"
         android:textColor="@color/white" />
 
     <TextView
@@ -41,7 +43,7 @@
         android:layout_marginStart="174dp"
         android:layout_marginTop="13dp"
         android:layout_weight="1"
-        android:text="20242400xx"
+        android:text="2024240105"
         android:textColor="@color/white" />
 
     <TextView
@@ -51,6 +53,7 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_marginStart="191dp"
+        android:textStyle="bold"
         android:layout_marginTop="570dp"
         android:layout_weight="1"
         android:text="Muhammad Irfan"
@@ -65,7 +68,7 @@
         android:layout_marginStart="190dp"
         android:layout_marginTop="9dp"
         android:layout_weight="1"
-        android:text="20242400xx"
+        android:text="2024240078"
         android:textColor="@color/white" />
 
     <TextView
@@ -73,11 +76,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
+        android:textStyle="bold"
         android:layout_alignParentTop="true"
         android:layout_marginStart="183dp"
         android:layout_marginTop="386dp"
         android:layout_weight="1"
-        android:text="Hanny Pase"
+        android:text="Hanny Pase Putri"
         android:textColor="@color/white" />
 
     <TextView
@@ -89,7 +93,7 @@
         android:layout_marginStart="182dp"
         android:layout_marginTop="16dp"
         android:layout_weight="1"
-        android:text="20242400xx"
+        android:text="2226240149P"
         android:textColor="@color/white" />
 
     <ImageView
