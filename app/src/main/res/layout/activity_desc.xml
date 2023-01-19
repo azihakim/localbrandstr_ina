@@ -48,6 +48,22 @@
         app:layout_constraintTop_toBottomOf="@+id/title"
         app:layout_constraintVertical_bias="0.046" />
 
+
+    <TextView
+        android:id="@+id/location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="TextView"
+        android:textAlignment="textStart"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@+id/description"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.888"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/title"
+        app:layout_constraintVertical_bias="1.0" />
+
     <Button
         android:id="@+id/btnig"
         android:layout_width="match_parent"
@@ -58,7 +74,7 @@
         tools:layout_editor_absoluteX="8dp" />
 
     <Button
-        android:id="@+id/btnstore"
+        android:id="@+id/btnmap"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Store"
