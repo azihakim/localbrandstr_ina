@@ -16,7 +16,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.057"
-        app:srcCompat="@drawable/satu" />
+        app:srcCompat="@drawable/maternal" />
 
     <TextView
         android:id="@+id/title"
@@ -36,7 +36,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="50sp"
-        android:layout_marginRight="40sp"
+        android:layout_marginRight="50sp"
+        android:padding="10dp"
         android:text="TextView"
         android:textAlignment="textStart"
         android:textSize="15sp"
