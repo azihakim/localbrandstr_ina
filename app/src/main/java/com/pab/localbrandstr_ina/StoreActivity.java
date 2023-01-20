@@ -11,7 +11,7 @@ public class StoreActivity extends AppCompatActivity {
     RecyclerView rv_store;
 
     String s1[], s2[], s3[], s4[];
-    int images[] = {R.drawable.maternal, R.drawable.thanksinsomnia, R.drawable.rawtype, R.drawable.geoffmax, R.drawable.raughneck, R.drawable.wellborn, R.drawable.insurgentclub, R.drawable.rowndivision, R.drawable.erigo, R.drawable.jiniso};
+    int images[] = {R.drawable.maternal, R.drawable.thanksinsomnia, R.drawable.rawtype, R.drawable.geoffmax, R.drawable.raughneck, R.drawable.wellborn, R.drawable.insurgentclub, R.drawable.rowndivision, R.drawable.erigo, R.drawable.unkl};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
