@@ -33,28 +33,28 @@ Tahun 2013 dikisahkan Sadad menjadi awal mula dirinya melahirkan nama Erigo seba
     </string-array>
 
     <string-array name="loc">
-        <item>geo: -2.9737082 104.7618535</item>
-        <item>geo: @-2.9737082,104.7618535</item>
-        <item>geo: 4377.3 2085.789</item>
-        <item>geo: 4377.3 2085.789</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
+        <item>https://goo.gl/maps/zn1iUvimEiqT6vpLA</item>
+        <item>https://goo.gl/maps/DsmssqNGTWJMCNsg8</item>
+        <item>https://goo.gl/maps/4nW1raqpEEeYjLKKA</item>
+        <item>https://goo.gl/maps/hhyiu97CLwC85hxt7</item>
+        <item>https://goo.gl/maps/rZ8D7skBpWLXD1oU8</item>
+        <item>https://goo.gl/maps/K1k8nthUMoakYWwC6</item>
+        <item>https://goo.gl/maps/KuTZCEoDzJwYYLVm6</item>
+        <item>https://goo.gl/maps/6w4SL9GTuE81CQjs5</item>
+        <item>https://goo.gl/maps/Go3E2omemds4DrpCA</item>
         <item>10</item>
     </string-array>
 
     <string-array name="ig">
-        <item>https://www.instagram.com/maternal_disaster/</item>
-        <item>geo: 4377.3 2085.789</item>
-        <item>geo: 4377.3 2085.789</item>
-        <item>geo: 4377.3 2085.789</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
+        <item> https://www.instagram.com/maternaldisaster/ </item>
+        <item> https://www.instagram.com/thanksinsomnia/ </item>
+        <item> https://www.instagram.com/rawtype_riot/ </item>
+        <item> https://www.instagram.com/geoff_max/ </item>
+        <item> https://www.instagram.com/roughneck1991/ </item>
+        <item> https://www.instagram.com/wellborncompany/ </item>
+        <item> https://www.instagram.com/insurgentclub_/ </item>
+        <item> https://www.instagram.com/rowndivision/ </item>
+        <item> https://www.instagram.com/erigostore/ </item>
+        <item> https://www.instagram.com/jiniso.id/ </item>
     </string-array>
 </resources>
