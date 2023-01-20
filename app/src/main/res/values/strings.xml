@@ -11,7 +11,7 @@
         <item>Insurgent Club</item>
         <item>Rown Division</item>
         <item>Erigo</item>
-        <item>Jiniso</item>
+        <item>UNKL347</item>
     </string-array>
 
     <string-array name="desk">
@@ -29,32 +29,37 @@ Lalu pada 2016 di tengah era digitalisasi yang memiliki banyak tantangan, Roughn
         <item>Rown Division adalah clothing brand asal kota Solo yang berdiri pada tahun 2007. Berawal dari passion yang tinggi terhadap dunia fashion, ditambah semangat independen dan ambisi secukupnya, Rown Division menjadi clothing brand terbesar di Solo dan salah satu yang terbaik di Indonesia. Rown Division mengawali perjalanannya dari toko pertamanya di kawasan Kalitan yang merupakan salah satu sentral kegiatan skena kreatif – terutamanya fashion dan musik – kota Solo pada masanya. Tiga tahun kemudian Rown Division pindah ke toko yang lebih besar di kawasan Manahan sekaligus menghabiskan diri sebagai clothing brand terbesar di kota Solo. Di tahun yang sama Rown Division melebarkan sayap dengan merilis Pretty Rown dan Rown Junior.</item>
         <item>Perjalanannya di industri pakaian dimulai sejak tahun 2011 dari sebuah studio kamar salah satu apartemen di wilayah Depok, tanpa karyawan atau tim satu pun.
 Tahun 2013 dikisahkan Sadad menjadi awal mula dirinya melahirkan nama Erigo sebagai sebuah identitas brand bisnis fashion-nya hingga kini bisa menjadi UMKM inspiratif yang naik kelas.</item>
-        <item>Brand yang dibangun sejak Desember 2018 oleh Dian Fiona ini mengusung konsep jeans untuk anak muda yang aktif dan kreatif sehingga mereka bangga menggunakan produk lokal karena dapat tetap tampil keren dan aktif.“Jiniso ini memiliki arti jeans Indonesia karena kami ingin menjadi jeans local brand nomor 1 di Indonesia,” tuturnya.</item>
+        <item>Sejarah UNKL347 merentang lebih dari dua dekade.
+Menurut Dendy Darman, salah satu founder UNKL347, pada awalnya ia membuat baju hanya karena untuk membiayai hobi berselancar yang memang tak murah. Hal ini pun diamini oleh Eddi Brokoli yang turut menyaksikan awal mula clothing line asal Bandung tersebut.
+
+“Mereka pengen surfing, modal ke (pantai Batukaras) udah gede. Kadang mereka kesana naik mobil pick-up, kalo perlu bantu dagang ikan dari nelayan supaya uangnya bisa dipake buat makan dan menginap untuk ‘mengejar’ ombak berikutnya,” tutur Eddi Brokoli.
+
+Namun semangat tersebut berbuah positif; awalnya mereka hanya membuat 1 t-shirt, hingga akhirnya jadi brand.</item>
     </string-array>
 
     <string-array name="loc">
-        <item>geo: -2.9737082 104.7618535</item>
-        <item>https://goo.gl/maps/PRSU7J8wXtuDuWFXA</item>
-        <item>geo: 4377.3 2085.789</item>
-        <item>geo: 4377.3 2085.789</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
+        <item>https://goo.gl/maps/zn1iUvimEiqT6vpLA</item>
+        <item>https://goo.gl/maps/DsmssqNGTWJMCNsg8</item>
+        <item>https://goo.gl/maps/4nW1raqpEEeYjLKKA</item>
+        <item>https://goo.gl/maps/hhyiu97CLwC85hxt7</item>
+        <item>https://goo.gl/maps/rZ8D7skBpWLXD1oU8</item>
+        <item>https://goo.gl/maps/K1k8nthUMoakYWwC6</item>
+        <item>https://goo.gl/maps/KuTZCEoDzJwYYLVm6</item>
+        <item>https://goo.gl/maps/6w4SL9GTuE81CQjs5</item>
+        <item>https://goo.gl/maps/Go3E2omemds4DrpCA</item>
+        <item>https://goo.gl/maps/vemF9KpcTq4VcEox8</item>
     </string-array>
 
     <string-array name="ig">
-        <item>https://www.instagram.com/maternal_disaster/</item>
-        <item>geo: 4377.3 2085.789</item>
-        <item>geo: 4377.3 2085.789</item>
-        <item>geo: 4377.3 2085.789</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
+        <item> https://www.instagram.com/maternaldisaster/ </item>
+        <item> https://www.instagram.com/thanksinsomnia/ </item>
+        <item> https://www.instagram.com/rawtype_riot/ </item>
+        <item> https://www.instagram.com/geoff_max/ </item>
+        <item> https://www.instagram.com/roughneck1991/ </item>
+        <item> https://www.instagram.com/wellborncompany/ </item>
+        <item> https://www.instagram.com/insurgentclub_/ </item>
+        <item> https://www.instagram.com/rowndivision/ </item>
+        <item> https://www.instagram.com/erigostore/ </item>
+        <item> https://www.instagram.com/347.letter/</item>
     </string-array>
 </resources>
